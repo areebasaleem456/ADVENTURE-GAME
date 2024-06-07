@@ -81,7 +81,6 @@ do {
         if (ask.option == "Energy Drink") {
             p1.fuelIncrease();
             console.log(`Now,Your fuel is ${p1.fuel}`);
-            process.exit();
         }
         if (ask.option == "Run") {
             console.log("You Exit! GAME OVER.");
@@ -121,7 +120,6 @@ do {
         if (ask.option == "Energy Drink") {
             p1.fuelIncrease();
             console.log(`Now,Your fuel is ${p1.fuel}`);
-            process.exit();
         }
         if (ask.option == "Run") {
             console.log("You Exit! GAME OVER.");
@@ -162,7 +160,6 @@ do {
         if (ask.option == "Energy Drink") {
             p1.fuelIncrease();
             console.log(`Now,Your fuel is ${p1.fuel}`);
-            process.exit();
         }
         if (ask.option == "Run") {
             console.log("You Exit! GAME OVER.");
